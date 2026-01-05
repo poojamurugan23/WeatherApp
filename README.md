@@ -58,12 +58,66 @@ This project demonstrates frontend development skills, API integration, and depl
 ## ⚙️ Installation & Local Setup
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/poojamurugan/weather-app.git
+    ```bash
+    git clone https://github.com/poojamurugan/weather-app.git
+
+2.  **Navigate to the project directory**
+        cd weather-app
+
+3.   **Install dependencies**
+        npm install
+
+4.   **Start the application**
+           npm start
+    
+
+---
 
 
-🔑 API Details
+## 🔑 API Details
 
-    - Provider: OpenWeatherMap
 
-    - Endpoint:
+- Provider: OpenWeatherMap
+
+- Endpoint:
+  
+      https://api.openweathermap.org/data/2.5/weather
+
+  ⚠️ API keys should be stored in environment variables for production applications.
+
+  ---
+
+  ## 🚀 Deployment
+
+    This project is deployed using GitHub Pages.
+
+    To deploy:
+          npm run deploy
+
+   ---
+
+  🧪 Error Handling
+
+    - Alerts user when input field is empty
+
+    - Displays error for invalid city names
+
+    - Prevents UI crashes during API failures
+
+ ---
+
+ ## 👩‍💻 Author
+
+**Pooja**
+
+LinkedIn: https://www.linkedin.com/in/poojamurugan23/
+
+GitHub: https://github.com/poojamurugan
+
+
+ ---
+
+ 
+**📜 License**
+
+This project is licensed for educational and learning purposes.
