@@ -1,11 +1,17 @@
 # Weather App 🌦️
 
 ![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
+
 ![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-purple)
+
 ![API](https://img.shields.io/badge/API-OpenWeatherMap-orange)
-![Deployment](https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen)
+
+![Deployment](https://img.shields.io/badge/Deployed-Netlify-brightgreen?logo=netlify)
+
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 ---
