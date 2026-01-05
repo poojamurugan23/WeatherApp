@@ -62,4 +62,8 @@ This project demonstrates frontend development skills, API integration, and depl
 git clone https://github.com/poojamurugan/weather-app.git
 
 
+🔑 API Details
 
+    - Provider: OpenWeatherMap
+
+    - Endpoint:
