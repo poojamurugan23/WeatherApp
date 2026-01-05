@@ -53,6 +53,22 @@ This project demonstrates frontend development skills, API integration, and depl
 
 ## 📂 Project Structure
 
+weather-app/
+
+├── public/
+
+├── src/
+
+│ ├── App.js
+
+│ ├── App.css
+
+│ └── index.js
+
+├── package.json
+
+└── README.md
+
 ---
 
 ## ⚙️ Installation & Local Setup
