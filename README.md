@@ -15,9 +15,7 @@ A modern and responsive **Weather Application** built using **React.js** that pr
 ---
 
 ## 🌐 Live Application
-🔗 https://poojamurugan.github.io/weather-app  
-*(Hosted on GitHub Pages)*
-
+🔗 Live Demo: https://tempvista.netlify.app/
 ---
 
 ## 📖 Overview
